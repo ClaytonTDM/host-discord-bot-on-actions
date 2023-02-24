@@ -3,4 +3,4 @@
 2. Add your bots code
 3. Add your bot token to an enviroment variable (you have to do this in order to avoid sharing your bot token, you can set enviroment variables in `Repository Settings > Environments > Environment Variables`)
 4. If done correctly, the action should get indefinitely stuck on `Run npm start`
-5. Done! Your Discord bot should be online.
+5. Done! Your Discord bot should now be online.
